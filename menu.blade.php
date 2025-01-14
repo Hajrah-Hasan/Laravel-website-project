@@ -10,7 +10,7 @@
 
   </div>
 </div> 
-<div class="row"style="background-image: url(images/;">
+<div class="row"style="background-image: url(/;">
   <div class="col-sm-12 text-center fs-1" >
     <b style="color: brown ;font-weight:bold;" style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif"  class="fs-4 ">  <br> Food Menu</b>
  <br> <b style="font-family: Georgia, serif;" >Most Popolar Items </b> <br>  </div> 
