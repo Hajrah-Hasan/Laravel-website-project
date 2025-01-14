@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\indexController;
+use App\Http\Controllers\HelloController;
 
 
 // use App\Http\Controllers\PageController;
@@ -35,8 +35,8 @@ Route::get('/', function () {
 
 // Route::get('/hell',[PageController::class,'showuser']);
 
-// Route::get('/index',[PageController::class,'showe'])->name('index');
-// Route::get('/index/{id}',[PageController::class,'showme']);
+// Route::get('/hello',[PageController::class,'showe'])->name('hello');
+// Route::get('/hello/{id}',[PageController::class,'showme']);
 // Route::get('/blog',[PageController::class,'showblog'])->name('blog');
 // Route::get('/content',TestingController::class);
 
@@ -101,9 +101,9 @@ Route::post('/submit',[FormDataController::class,'store']);
 // Route::post('/cart/add', [CartController::class, 'addToCart']);
 
 
-Route::get('/homepage', function () {
+<!-- Route::get('/homepage', function () {
         return view('index');
-    });
+    }); -->
     Route::get('/hi', function () {
         return view('hi');
     });
@@ -123,8 +123,8 @@ Route::get('/homepage', function () {
 
 
 
-    Route::get('/index', [indexController::class, 'showSignupForm']);
-    Route::post('/signup', [indexController::class, 'signup'])->name('signup');
+    Route::get('/index', [HelloController::class, 'showSignupForm']);
+    Route::post('/signup', [HelloController::class, 'signup'])->name('signup');
     
 
 // Route::get('/index', [AuthController::class, 'showSignupForm']);
