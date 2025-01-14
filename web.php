@@ -64,7 +64,6 @@ Route::get('/', function () {
 // Route::get('/home1',[PhotoController::class,'index']);
 // Route::post('/show',[PhotoController::class,'create']);
 
-
 // Route::get('/',[productController::class,'index']);
 // Route::get('/create',[productController::class,'create']);
 // Route::post('/create/product',[productController::class,'store']);
