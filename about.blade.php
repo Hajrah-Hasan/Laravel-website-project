@@ -32,7 +32,7 @@
 
   <br>
 <div class="row " style="background-image: url(images/); " >
-    <div class="col-md-6 px-5 m-auto"><img style="height: " class="img-fluid" src="{{URL('images/stpic2_cleanup (1).jpg')}}" alt=""></div>
+    <div class="col-md-6 px-5 m-auto"><img style="height: " class="img-fluid" src="{{URL('stpic2_cleanup (1).jpg')}}" alt=""></div>
     <div class="col-md-6 fs-5 m-auto ps-5 px-3">
      <b> <p class="fs-1 "style="font-family: Georgia, serif;  color: rgb(139, 35, 35)" ><br> Opening Hours</p></b>
       <p class="fs-5"style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">Welcome to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that.</p>
@@ -49,19 +49,19 @@
   <div class="col-12 text-center fs-1 "style="font-family: Georgia, serif;" >
     SPECIALITIES</div>
   
-   <div class="col-md-4 mt-sm-3 mt-3 " style="position: relative"><img  style="opacity: 0.7" class="img-fluid" src="{{URL('images/piza3.jpg')}}" alt=""><p class="fs-2 fw-bold" style="position: absolute; opacity:2.5; top:40%; left:40%; color:white;   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+   <div class="col-md-4 mt-sm-3 mt-3 " style="position: relative"><img  style="opacity: 0.7" class="img-fluid" src="{{URL('piza3.jpg')}}" alt=""><p class="fs-2 fw-bold" style="position: absolute; opacity:2.5; top:40%; left:40%; color:white;   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
     ">PIZZA</p> </div>
 
-  <div class="col-md-4 mt-sm-3 mt-4 " style="position: relative"><img  style="opacity: 0.7" class="img-fluid" src="{{URL('images/burger.jpeg')}}" alt=""><p class="fs-2 fw-bold" style="position: absolute; opacity:2.5; top:40%; left:35%; color:white;   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  <div class="col-md-4 mt-sm-3 mt-4 " style="position: relative"><img  style="opacity: 0.7" class="img-fluid" src="{{URL('burger.jpeg')}}" alt=""><p class="fs-2 fw-bold" style="position: absolute; opacity:2.5; top:40%; left:35%; color:white;   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
     ">BURGERS</p> </div> 
 
-<div class="col-md-4 mt-sm-3 mt-4" style="position: relative"><img  style="opacity: 0.7" class="img-fluid" src="{{URL('images/piza2.jpg')}}" alt=""><p class="fs-2 fw-bold" style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; position: absolute; opacity:2.5; top:40%; left:30%; color:white;   
+<div class="col-md-4 mt-sm-3 mt-4" style="position: relative"><img  style="opacity: 0.7" class="img-fluid" src="{{URL('piza2.jpg')}}" alt=""><p class="fs-2 fw-bold" style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; position: absolute; opacity:2.5; top:40%; left:30%; color:white;   
   ">SPECIAL PIZZA</p> </div>
  
   
-  {{-- <div class="col-md-4"><img class="img-fluid" src="{{URL('images/burger.jpeg')}}" alt=""></div>
+  {{-- <div class="col-md-4"><img class="img-fluid" src="{{URL('burger.jpeg')}}" alt=""></div>
 
-  <div class="col-md-4"><img class="img-fluid h-30" src="{{URL('images/piza3.jpg')}}" alt=""></div> --}}
+  <div class="col-md-4"><img class="img-fluid h-30" src="{{URL('piza3.jpg')}}" alt=""></div> --}}
 
  
 </div> <br>
