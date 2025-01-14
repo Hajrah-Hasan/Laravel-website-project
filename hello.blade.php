@@ -36,7 +36,7 @@
       /* .row1:hover{
         /* transform: scale(1);      } */ 
     .bg{
-      background-image:url(images/carosal2.jpeg) ;
+      background-image:url(carosal2.jpeg) ;
       opacity: 0.7;
 
   }
@@ -125,21 +125,21 @@ background-color:;
             <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                   <div class= " carousel-item active">
-                    <img src="{{URL('images/carosal2.jpeg')}}" class="d-block image-fluid  w-100" alt="...">
+                    <img src="{{URL('carosal2.jpeg')}}" class="d-block image-fluid  w-100" alt="...">
                     <div class="carousel-caption  ">
                       <h1 class="animated bounceInRight text-sm-8" style="animation-delay: 1s">First slide label</h1>
                       <p class="animated bounceInLeft d-none d-md-block" style="animation-delay: 1s ">Some representative placeholder content for the first slide.</p>
                     </div> 
                   </div>
                   <div class="carousel-item">
-                    <img src="{{URL('images/pizzapicce.jpg')}}" class="d-block w-100" alt="...">
+                    <img src="{{URL('pizzapicce.jpg')}}" class="d-block w-100" alt="...">
                     <div class="carousel-caption ">
                       <h1>First slide label</h1>
                       <p class="animated bounceInLeft d-none d-md-block">Some representative placeholder content for the first slide.</p>
                     </div>
                   </div>
                   <div class="carousel-item">
-                    <img src="{{URL('images/pexels-valeria-boltneva-1639562.jpg')}}" class="d-block w-100" alt="...">
+                    <img src="{{URL('pexels-valeria-boltneva-1639562.jpg')}}" class="d-block w-100" alt="...">
                     <div class="carousel-caption ">
                       <h1>First slide label</h1>
                       <p class="animated bounceInLeft d-none d-md-block">Some representative placeholder content for the first slide.</p>
@@ -161,9 +161,9 @@ background-color:;
     <nav style="width:95% ;         font-family: Georgia, serif;
     " class="navbar  position-absolute top-0 navbar-expand-lg ">
         <div class="container-fluid">
-          {{-- <a href="">          <img style="" src="images/slphlogo.jpg" alt="">
+          {{-- <a href="">          <img style="" src="slphlogo.jpg" alt="">
           </a> --}}
-          {{-- <div>        <img src="images/Borcelle(2).png" alt=""> --}}
+          {{-- <div>        <img src="Borcelle(2).png" alt=""> --}}
           {{-- </div> --}}
                    <a class="navbar-brand text-light ps-md-3 fs-5" style="font-family: Georgia, serif;" href="#"> PIZZ<i class="fa-solid fa-pizza-slice"></i>A<br>  
                     HOUSE </a>
@@ -228,8 +228,8 @@ background-color:;
     <a href="tel:03157129156"><button type="button" class="btn btn-outline-dark border-2 px-4   fw-bold text-light border-light">MAKE AN ORDER NOW!</button></a>
   </div>
 </div>  <br>
-<div class="row " style="background-image: url(images/); " >
-  <div class="col-md-6 px-5 m-auto"><img style="height: " class="img-fluid" src="{{URL('images/stpic2_cleanup (1).jpg')}}" alt=""></div>
+<div class="row " style="background-image: url(/); " >
+  <div class="col-md-6 px-5 m-auto"><img style="height: " class="img-fluid" src="{{URL('stpic2_cleanup (1).jpg')}}" alt=""></div>
   <div class="col-md-6 fs-5 m-auto ps-5 px-3">
    <b> <p class="fs-1 "style="font-family: Georgia, serif;  color: rgb(139, 35, 35)" ><br> Opening Hours</p></b>
     <p class="fs-5"style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">Welcom to our restaurant, where culinary artistry meets exceptional dining experiences. At, we strive to create a gastronomic haven that.</p>
@@ -247,24 +247,24 @@ FRIDAY & SATURDAY: 11:30AM - 12AM
   <div class="col-12 text-center fs-1 "style="font-family: Georgia, serif;" >
     SPECIALITIES</div>
   
-   <div class="col-md-4 mt-sm-3 mt-3 " style="position: relative"><img  style="opacity: 0.7" class="img-fluid" src="{{URL('images/piza3.jpg')}}" alt=""><p class="fs-2 fw-bold" style="position: absolute; opacity:2.5; top:40%; left:40%; color:white;   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+   <div class="col-md-4 mt-sm-3 mt-3 " style="position: relative"><img  style="opacity: 0.7" class="img-fluid" src="{{URL('piza3.jpg')}}" alt=""><p class="fs-2 fw-bold" style="position: absolute; opacity:2.5; top:40%; left:40%; color:white;   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
     ">PIZZA</p> </div>
 
-  <div class="col-md-4 mt-sm-3 mt-4 " style="position: relative"><img  style="opacity: 0.7" class="img-fluid" src="{{URL('images/burger.jpeg')}}" alt=""><p class="fs-2 fw-bold" style="position: absolute; opacity:2.5; top:40%; left:35%; color:white;   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  <div class="col-md-4 mt-sm-3 mt-4 " style="position: relative"><img  style="opacity: 0.7" class="img-fluid" src="{{URL('burger.jpeg')}}" alt=""><p class="fs-2 fw-bold" style="position: absolute; opacity:2.5; top:40%; left:35%; color:white;   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
     ">BURGERS</p> </div> 
 
-<div class="col-md-4 mt-sm-3 mt-4" style="position: relative"><img  style="opacity: 0.7" class="img-fluid" src="{{URL('images/piza2.jpg')}}" alt=""><p class="fs-2 fw-bold " style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; position: absolute; opacity:2.5; top:40%; left:30%; color:white;   
+<div class="col-md-4 mt-sm-3 mt-4" style="position: relative"><img  style="opacity: 0.7" class="img-fluid" src="{{URL('piza2.jpg')}}" alt=""><p class="fs-2 fw-bold " style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; position: absolute; opacity:2.5; top:40%; left:30%; color:white;   
   ">SPECIAL PIZZA</p> </div>
  
   
-  {{-- <div class="col-md-4"><img class="img-fluid" src="{{URL('images/burger.jpeg')}}" alt=""></div>
+  {{-- <div class="col-md-4"><img class="img-fluid" src="{{URL('burger.jpeg')}}" alt=""></div>
 
-  <div class="col-md-4"><img class="img-fluid h-30" src="{{URL('images/piza3.jpg')}}" alt=""></div> --}}
+  <div class="col-md-4"><img class="img-fluid h-30" src="{{URL('piza3.jpg')}}" alt=""></div> --}}
 
  
 </div>
    <br> 
-<div class="row"style="background-image: url(images/;">
+<div class="row"style="background-image: url(/;">
   <div class="col-sm-12 text-center fs-1" >
     <b style="color: brown ;font-weight:bold;" style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif"  class="fs-4 ">  <br> Food Menu</b>
  <br> <b style="font-family: Georgia, serif;" >Most Popolar Items </b> <br>  </div> 
@@ -363,23 +363,23 @@ FRIDAY & SATURDAY: 11:30AM - 12AM
 
 <div class="row  overflow-hidden ">
   {{-- <div class="col-3    row1 p-0 "
-  style="background-image: url(images/stpeople.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
+  style="background-image: url(stpeople.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
   </div>
   <div class="col-3 mx-0 overflow-hidden  row1 p-0 "
-  style="background-image: url(images/stpic2.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
+  style="background-image: url(stpic2.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
   </div>
   <div class="col-3  overflow-hidden  row1 p-0 "
-  style="background-image: url(images/stpic.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
+  style="background-image: url(stpic.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
   </div>
   <div class="col-3    row1 p-0 "
-  style="background-image: url(images/stpizzap.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
+  style="background-image: url(stpizzap.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
   </div> --}}
 
 
-    {{-- <div class="col-sm-3   row1 p-0 "><img style="height: " class="img-fluid" src="{{URL('images/stpeople.jpg')}}" alt=""></div>
-  <div class="col-sm-3 row1 p-0"><img style="height: "  class="img-fluid" src="{{URL('images/stpic2.jpg')}}" alt=""></div>
-  <div class="col-sm-3   row1 p-0 "><img style="height: "  class="img-fluid" src="{{URL('images/stpic.jpg')}}" alt=""></div> --}}
-  {{-- <div class="col   row1 px-0"><img style="height: "  class="img-fluid" src="{{URL('images/stpizzap.jpg')}}" alt=""></div> --}}
+    {{-- <div class="col-sm-3   row1 p-0 "><img style="height: " class="img-fluid" src="{{URL('stpeople.jpg')}}" alt=""></div>
+  <div class="col-sm-3 row1 p-0"><img style="height: "  class="img-fluid" src="{{URL('stpic2.jpg')}}" alt=""></div>
+  <div class="col-sm-3   row1 p-0 "><img style="height: "  class="img-fluid" src="{{URL('stpic.jpg')}}" alt=""></div> --}}
+  {{-- <div class="col   row1 px-0"><img style="height: "  class="img-fluid" src="{{URL('stpizzap.jpg')}}" alt=""></div> --}}
 </div> 
 <div class="row text-light" style=" padding-top: 9%;background-color:rgb(14, 14, 14) ">
   
