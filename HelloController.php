@@ -10,7 +10,7 @@ class HelloController extends Controller
 {
     public function showSignupForm()
     {
-        return view('hello');
+        return view('index');
     }
 
     public function signup(Request $request)
