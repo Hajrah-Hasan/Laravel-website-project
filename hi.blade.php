@@ -89,7 +89,7 @@ html{
           <div class="collapse navbar-collapse " id="navbarSupportedContent">
                        <ul class="navbar-nav  m-auto mb-2  mb-lg-0">
  <li class="nav-item ">
-                <a style="font-family: Georgia, serif;"  class="nav-link text-light  active px-4" aria-current="page" href="/hello">HOME</a>
+                <a style="font-family: Georgia, serif;"  class="nav-link text-light  active px-4" aria-current="page" href="/index">HOME</a>
               </li>
               <li class="nav-item">
                 <a style="font-family: Georgia, serif;"  class="nav-link text-light  active px-4" aria-current="page" href="/about">ABOUT</a>
@@ -173,7 +173,7 @@ html{
 
           </div>
       <div class="col-md-2"> <p style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif" class="fs-5 ps-md-0 ps-4 ">QUICK LINKS</p>
-        <span style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;"  class="lh-lg ps-md-0  ps-4"><a class="" style=" text-decoration:none; color:white;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif"  href="/hello">HOME</a> <br>
+        <span style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;"  class="lh-lg ps-md-0  ps-4"><a class="" style=" text-decoration:none; color:white;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif"  href="/index">HOME</a> <br>
        <a class="ps-4 ps-md-0" style=" text-decoration:none; color:white;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif" href="/about">ABOUT</a>  <br>
        <a class="ps-4 ps-md-0" style=" text-decoration:none; color:white;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif"  href="/menu">MENU</a>
 
