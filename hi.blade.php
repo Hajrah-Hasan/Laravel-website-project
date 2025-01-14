@@ -15,7 +15,7 @@
     <title>PizzaHouse</title>
     <style>
         .bg{
-      background-image:url(images/slice.png) ;
+      background-image:url(slice.png) ;
 
 
   }
@@ -66,7 +66,7 @@ html{
     
       </div>
   </div>   --}}
-    {{-- <div class="row " style="background-image:url(images/slice.png) ;
+    {{-- <div class="row " style="background-image:url(slice.png) ;
        background-size:cover;  background-attachment: fixed;o background-repeat: no-repeat;">
         <div class="col  px-0 
         ">
@@ -77,7 +77,7 @@ html{
     <nav style="width:95% ;         font-family: Georgia, serif;
     " class="navbar  position-absolute top-0 navbar-expand-lg ">
         <div class="container-fluid">
-          {{-- <a href="">          <img style="" src="images/slphlogo.jpg" alt="">
+          {{-- <a href="">          <img style="" src="slphlogo.jpg" alt="">
           </a> --}}
           <a class="navbar-brand text-light ps-md-3 fs-5" style="font-family: Georgia, serif;" href="#"> PIZZ<i class="fa-solid fa-pizza-slice"></i>A<br>  
             HOUSE </a>
@@ -115,23 +115,23 @@ html{
 
 {{-- <div class="row  row-cols-sm-3 ">
   <div class="col-sm-3    row1 p-0 "
-  style="background-image: url(images/stpeople.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
+  style="background-image: url(stpeople.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
   </div>
   <div class="col-sm-3 mx-0 overflow-hidden  row1 p-0 "
-  style="background-image: url(images/stpic2.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
+  style="background-image: url(stpic2.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
   </div>
   <div class="col-sm-3  overflow-hidden  row1 p-0 "
-  style="background-image: url(images/stpic.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
+  style="background-image: url(stpic.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
   </div>
   <div class="col-sm-3    row1 p-0 "
-  style="background-image: url(images/stpizzap.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
+  style="background-image: url(stpizzap.jpg);background-size:cover;background-repeat:no-repeat;height:40vh;">
   </div> --}}
 
 
-    {{-- <div class="col-sm-3   row1 p-0 "><img style="height: " class="img-fluid" src="{{URL('images/stpeople.jpg')}}" alt=""></div>
-  <div class="col-sm-3 row1 p-0"><img style="height: "  class="img-fluid" src="{{URL('images/stpic2.jpg')}}" alt=""></div>
-  <div class="col-sm-3   row1 p-0 "><img style="height: "  class="img-fluid" src="{{URL('images/stpic.jpg')}}" alt=""></div> --}}
-  {{-- <div class="col   row1 px-0"><img style="height: "  class="img-fluid" src="{{URL('images/stpizzap.jpg')}}" alt=""></div> --}}
+    {{-- <div class="col-sm-3   row1 p-0 "><img style="height: " class="img-fluid" src="{{URL('stpeople.jpg')}}" alt=""></div>
+  <div class="col-sm-3 row1 p-0"><img style="height: "  class="img-fluid" src="{{URL('stpic2.jpg')}}" alt=""></div>
+  <div class="col-sm-3   row1 p-0 "><img style="height: "  class="img-fluid" src="{{URL('stpic.jpg')}}" alt=""></div> --}}
+  {{-- <div class="col   row1 px-0"><img style="height: "  class="img-fluid" src="{{URL('stpizzap.jpg')}}" alt=""></div> --}}
 {{-- </div> --}}
 
 
